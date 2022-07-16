@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on building my technical skills in Data Analytics
 - 🌱 I’m currently learning data analsis in the NG30 Days of Learning.
